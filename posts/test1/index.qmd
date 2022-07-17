@@ -1,0 +1,26 @@
+---
+title: "Första inlägget"
+author: "Johan"
+date: "2022-07-17""
+format: html
+editor: visual
+---
+
+Hej
+
+här är ett inlägg
+
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+p <- palmerpenguins::penguins %>% drop_na()
+```
+
+Diagram 1
+
+```{r}
+p %>% 
+  ggplot(aes(bill_length_mm, bill_depth_mm, color = species)) +
+  geom_point() +
+  theme_minimal()
+```
