@@ -1,5 +1,5 @@
 ---
-title: "Johan-blog"
+title: "kpclick-blog"
 listing:
   contents: posts
   sort: "date desc"
