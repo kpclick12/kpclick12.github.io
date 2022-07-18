@@ -12,12 +12,5 @@
     "title": "kpclick-blog",
     "section": "",
     "text": "News\n\n\n\n\n\n\n\n\n\n\n\nJohan\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/first/first.html",
-    "href": "posts/first/first.html",
-    "title": "Välkomsinlägg",
-    "section": "",
-    "text": "leaflet() %>%\n  addTiles() %>%\n  addMarkers(\n    lng=11.91605, \n    lat=57.69195, \n    label=\"Majorna\"\n  ) %>% \n  addProviderTiles(providers$CartoDB.Positron)"
   }
 ]
