@@ -1,6 +1,7 @@
 ---
 title: "Välkomsinlägg"
 editor: visual
+category: "Nytt"
 ---
 
 # Hej
