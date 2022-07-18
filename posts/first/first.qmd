@@ -16,6 +16,8 @@ library(leaflet)
 
 ```
 
+## Karta Majorna
+
 ```{r}
 #| echo: false
 #| warning: false
