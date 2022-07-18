@@ -1,3 +1,10 @@
 ---
 page-layout: full
 ---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 id='about-me-text'}
+# Hej, välkommen
+:::
+:::
