@@ -6,11 +6,14 @@ format: html
 editor: visual
 ---
 
-Hej
+# Hej
 
-här är ett inlägg
+## här är ett inlägg
 
 ```{r}
+#| echo: false
+#| warning: false
+#| message: false
 library(tidyverse)
 library(palmerpenguins)
 p <- palmerpenguins::penguins %>% drop_na()
