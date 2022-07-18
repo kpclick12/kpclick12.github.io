@@ -6,9 +6,9 @@ format: html
 editor: visual
 ---
 
-# Hej
+# Blogginlägg
 
-## här är ett inlägg
+Det här blogginlägget är ett test
 
 ```{r}
 #| echo: false
@@ -19,7 +19,9 @@ library(palmerpenguins)
 p <- palmerpenguins::penguins %>% drop_na()
 ```
 
-Diagram 1
+## Diagram 1
+
+Det här diagrammet visar sambandet mellan x och y
 
 ```{r}
 #| echo: false
