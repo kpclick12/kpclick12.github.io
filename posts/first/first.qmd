@@ -5,3 +5,24 @@ categories: [News]
 ---
 
 # Hej
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(leaflet)
+
+```
+
+```{r}
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(
+    lng=11.91605, 
+    lat=57.69195, 
+    label="Majorna"
+  ) %>% 
+  addProviderTiles(providers$CartoDB.Positron)
+```
