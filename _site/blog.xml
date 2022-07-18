@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kpclick12 blogg</title>
+<link>https://kpclick12.github.io/blog.html</link>
+<atom:link href="https://kpclick12.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.0.28</generator>
+<lastBuildDate>Mon, 18 Jul 2022 12:22:12 GMT</lastBuildDate>
+<item>
+  <title>Välkomsinlägg</title>
+  <dc:creator>Johan</dc:creator>
+  <link>https://kpclick12.github.io/posts/first/first.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="hej" class="level1">
+<h1>Hej</h1>
+<div class="cell">
+
+</div>
+<section id="karta-majorna" class="level2">
+<h2 class="anchored" data-anchor-id="karta-majorna">Karta Majorna</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div id="htmlwidget-2bf811e9059969d352b7" style="width:100%;height:464px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2bf811e9059969d352b7">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[57.69195,11.91605,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Majorna",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addProviderTiles","args":["CartoDB.Positron",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]}],"limits":{"lat":[57.69195,57.69195],"lng":[11.91605,11.91605]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://kpclick12.github.io/posts/first/first.html</guid>
+  <pubDate>Mon, 18 Jul 2022 12:22:12 GMT</pubDate>
+</item>
+</channel>
+</rss>
