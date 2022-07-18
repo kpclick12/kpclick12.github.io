@@ -22,6 +22,7 @@ p <- palmerpenguins::penguins %>% drop_na()
 Diagram 1
 
 ```{r}
+#| echo: false
 p %>% 
   ggplot(aes(bill_length_mm, bill_depth_mm, color = species)) +
   geom_point() +
