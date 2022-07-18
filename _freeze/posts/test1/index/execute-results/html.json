@@ -1,7 +1,7 @@
 {
-  "hash": "005d9f99668c588269a09b8844d74963",
+  "hash": "ea34215b54e9409c7ac413e6add5199a",
   "result": {
-    "markdown": "---\ntitle: \"Första inlägget\"\nauthor: \"Johan\"\ndate: \"2022-07-17\"\nformat: html\neditor: visual\n---\n\n\n# Hej\n\n## här är ett inlägg\n\n\n::: {.cell}\n\n:::\n\n\nDiagram 1\n\n\n::: {.cell}\n\n```{.r .cell-code}\np %>% \n  ggplot(aes(bill_length_mm, bill_depth_mm, color = species)) +\n  geom_point() +\n  theme_minimal()\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Första inlägget\"\nauthor: \"Johan\"\ndate: \"2022-07-17\"\nformat: html\neditor: visual\n---\n\n\n# Hej\n\n## här är ett inlägg\n\n\n::: {.cell}\n\n:::\n\n\nDiagram 1\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

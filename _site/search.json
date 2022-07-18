@@ -18,6 +18,6 @@
     "href": "posts/test1/index.html",
     "title": "Första inlägget",
     "section": "",
-    "text": "Diagram 1\n\np %>% \n  ggplot(aes(bill_length_mm, bill_depth_mm, color = species)) +\n  geom_point() +\n  theme_minimal()"
+    "text": "Diagram 1"
   }
 ]
