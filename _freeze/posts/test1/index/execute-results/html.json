@@ -1,7 +1,7 @@
 {
-  "hash": "ea34215b54e9409c7ac413e6add5199a",
+  "hash": "31e0978ec6c3b51442c79a0771a3a9e9",
   "result": {
-    "markdown": "---\ntitle: \"Första inlägget\"\nauthor: \"Johan\"\ndate: \"2022-07-17\"\nformat: html\neditor: visual\n---\n\n\n# Hej\n\n## här är ett inlägg\n\n\n::: {.cell}\n\n:::\n\n\nDiagram 1\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Första inlägget\"\nauthor: \"Johan\"\ndate: \"2022-07-17\"\nformat: html\neditor: visual\n---\n\n::: {.cell}\n\n:::\n\n\n## Diagram 1\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],
