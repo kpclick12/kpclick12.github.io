@@ -17,6 +17,10 @@ library(leaflet)
 ```
 
 ```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
 leaflet() %>%
   addTiles() %>%
   addMarkers(
