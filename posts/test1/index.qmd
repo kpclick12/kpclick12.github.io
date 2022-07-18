@@ -6,10 +6,6 @@ format: html
 editor: visual
 ---
 
-# Blogginlägg
-
-Det här blogginlägget är ett test
-
 ```{r}
 #| echo: false
 #| warning: false
@@ -20,8 +16,6 @@ p <- palmerpenguins::penguins %>% drop_na()
 ```
 
 ## Diagram 1
-
-Det här diagrammet visar sambandet mellan x och y
 
 ```{r}
 #| echo: false
