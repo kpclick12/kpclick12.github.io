@@ -2,8 +2,17 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/e1646ccf/posts/first/first.html",
+      "/e1646ccf/posts/second/index.html",
       "/posts/first/first.html",
       "/posts/second/index.html"
+    ]
+  },
+  {
+    "listing": "/e1646ccf/blog.html",
+    "items": [
+      "/e1646ccf/posts/first/first.html",
+      "/e1646ccf/posts/second/index.html"
     ]
   }
 ]
