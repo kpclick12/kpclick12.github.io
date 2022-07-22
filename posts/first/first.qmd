@@ -15,6 +15,7 @@ library(tidyverse)
 library(leaflet)
 library(palmerpenguins)
 library(reactable)
+library(htmltools)
 
 ```
 
@@ -29,7 +30,17 @@ d <- palmerpenguins::penguins %>%
 
 
 ```{r}
-reactable::reactable(d)
+#| echo: false
+
+htmltools::browsable(
+  tagList(
+    tags$button("Download as CSV", onclick = "Reactable.downloadDataCSV('cars-table')"),
+
+    reactable(
+     d
+    )
+  )
+)
 
 ```
 
