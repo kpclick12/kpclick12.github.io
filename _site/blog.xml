@@ -10,7 +10,7 @@
 <atom:link href="https://kpclick12.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.0.28</generator>
-<lastBuildDate>Fri, 22 Jul 2022 07:04:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 Jul 2022 07:11:23 GMT</lastBuildDate>
 <item>
   <title>Välkomsinlägg</title>
   <dc:creator>Johan</dc:creator>
@@ -52,7 +52,7 @@
  ]]></description>
   <category>News</category>
   <guid>https://kpclick12.github.io/posts/first/first.html</guid>
-  <pubDate>Fri, 22 Jul 2022 07:04:17 GMT</pubDate>
+  <pubDate>Fri, 22 Jul 2022 07:11:23 GMT</pubDate>
 </item>
 </channel>
 </rss>
