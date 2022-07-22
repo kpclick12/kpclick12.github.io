@@ -76,7 +76,6 @@ state_map <- ggplot() +
 
 
 ```{r}
-
 #| echo: false
 #| warning: false
 

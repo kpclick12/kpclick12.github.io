@@ -18,6 +18,6 @@
     "href": "posts/second/index.html",
     "title": "second",
     "section": "",
-    "text": "old-style crs object detected; please recreate object with a recent sf::st_crs()"
+    "text": "#| echo: false\n#| warning: false\n\ngirafe(ggobj = state_map + latest_vax_graph, \n       width_svg = 10, height_svg = 5) %>%\n  girafe_options(opts_hover(css = \"fill:cyan;\"))"
   }
 ]
