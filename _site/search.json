@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Kpclick12 blogg",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n0 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/first/first.html",
@@ -12,5 +12,12 @@
     "title": "Välkomsinlägg",
     "section": "",
     "text": "Download as CSV"
+  },
+  {
+    "objectID": "posts/second/index.html",
+    "href": "posts/second/index.html",
+    "title": "second",
+    "section": "",
+    "text": "old-style crs object detected; please recreate object with a recent sf::st_crs()"
   }
 ]
