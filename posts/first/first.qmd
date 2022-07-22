@@ -48,6 +48,8 @@ htmltools::browsable(
 
 ```{r}
 #| echo: false
+#| warning: false
+#| message: false
 
 d %>% 
   ggplot(aes(bill_depth_mm, bill_length_mm)) +
