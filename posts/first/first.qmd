@@ -13,8 +13,27 @@ categories: [News]
 
 library(tidyverse)
 library(leaflet)
+library(palmerpenguins)
+library(reactable)
 
 ```
+
+```{r}
+#| echo: false
+
+d <- palmerpenguins::penguins %>% 
+  drop_na()
+
+
+```
+
+
+```{r}
+reactable::reactable(d)
+
+```
+
+
 
 ## Karta Majorna
 
