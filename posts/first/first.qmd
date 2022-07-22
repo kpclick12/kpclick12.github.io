@@ -34,10 +34,11 @@ d <- palmerpenguins::penguins %>%
 
 htmltools::browsable(
   tagList(
-    tags$button("Download as CSV", onclick = "Reactable.downloadDataCSV('cars-table')"),
+    tags$button("Download as CSV", onclick = "Reactable.downloadDataCSV('penguins', 'penguins.csv')"),
 
     reactable(
-     d
+     d,
+     elementId = "penguins"
     )
   )
 )
