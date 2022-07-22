@@ -11,6 +11,6 @@
     "href": "posts/first/first.html",
     "title": "Välkomsinlägg",
     "section": "",
-    "text": "Download as CSV"
+    "text": "Download as CSV\n\n\n\n\n\n#| echo: false\n\nd %>% \n  ggplot(aes(bill_depth_mm, bill_length_mm)) +\n  geom_point() +\n  geom_smooth(method = \"lm\") +\n  theme_minimal()\n\n`geom_smooth()` using formula 'y ~ x'"
   }
 ]

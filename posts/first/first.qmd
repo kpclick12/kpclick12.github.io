@@ -47,7 +47,6 @@ htmltools::browsable(
 
 
 ```{r}
-
 #| echo: false
 
 d %>% 
